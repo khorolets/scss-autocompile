@@ -26,13 +26,13 @@ You need to download the plugin and put the folder `SCSSAutocompile` to `Package
 ## Usage
 
 
-Add the parameters on the first lines of the LESS file.
+Add the parameters on the first lines of the SCSS file.
 
 ```
 out (string):  path of CSS file to create
 sourcemap (bool): create sourcemap file
 compress (bool): compress CSS file
-main (string): path to your main LESS file to be compiled
+main (string): path to your main SCSS file to be compiled
 ```
 
 ### Example
