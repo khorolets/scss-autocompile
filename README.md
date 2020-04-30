@@ -20,6 +20,7 @@ I didn't add my plugin to Sublime Packages so there is only a manual way to inst
 
 You need to download the plugin and put the folder `SCSSAutocompile` to `Packages` folder of your Sublime Text 3. The `Packages` folder can be found:
 
+ * `%HOMEPATH%/AppData/Roaming/Sublime Text 3/Packages` (Windows)
  * `~/Library/Application Support/Sublime Text 3/Packages` (macOS)
  * `~/config/sublime-text-3/Packages/` (Linux) **Note** It can be different, depends on the way you've installed Sublime Text 3
 
